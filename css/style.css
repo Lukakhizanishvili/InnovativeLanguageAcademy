@@ -343,7 +343,8 @@ a.readmore_bt {
     text-align: center;
 }
 /*--------------------------------------------------------------------- header area ---------------------------------------------------------------------*/
-.logo_section {
+
+ .logo_section {
     text-align: center;
 }
 .logo {
@@ -403,8 +404,8 @@ nav.main-menu {
 }
 .right_cart_section ul li a {
     color: #fff;
-}
-/*-- end header middle --*/
+} 
+/* -- end header middle -- */
 .top-bar-info {
     background: #111111;
     padding: 5px 0px;
