@@ -1327,10 +1327,9 @@ border-radius: 30px;
     background: #fff;
 }
 .box_bg {
-    background: #c3c3c3;
     padding: 10px 30px 30px 0px;
-   display: inline-block;
-   width: 100%;
+    display: inline-block;
+    width: 100%;
 }
 .box_bg_img {
     max-width: 500px;
