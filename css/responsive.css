@@ -161,7 +161,7 @@
     .text-bg h1 {
        
         font-size: 21px;
-        line-height: 25px;
+        line-height: 15px;
         padding-bottom: 10px;
    }
     .text-bg span {
@@ -196,8 +196,8 @@
     ul.social_link {padding-bottom: 0px;}
     .text-bg h1 {
         padding-top: 0px;
-        font-size: 38px;
-       line-height: 48px;
+        font-size: 21px;
+        line-height: 20px;
         padding-bottom: 18px;
    }
 .mean-last {width: 20px;}
@@ -218,14 +218,14 @@
    }
     .text-bg p {
        font-size: 14px;
-       line-height: 22px;
+       line-height: 15px;
        padding-bottom: 25px;
    }
     .text-bg a {
-      margin-right: 5px;
-padding: 10px 7px;
-font-size: 13px;
-max-width: 122px;
+    margin-right: 5px;
+    padding: 10px 7px;
+    font-size: 13px;
+    max-width: 122px;
    }
     
    .important_bg .important_box h3 {
@@ -337,12 +337,12 @@ max-width: 122px;
     .text-bg h1 {
         padding-top: 80px;
         font-size: 31px;
-        line-height: 45px;
+        line-height: 20px;
         padding-bottom: 18px;
    }
    .text-bg p {
        font-size: 15px;
-       line-height: 20px;
+       line-height: 10px;
        padding-bottom: 30px;
    }
    .text-bg a {
