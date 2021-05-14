@@ -1154,6 +1154,7 @@ text-align: center;
 text-transform: uppercase;
 border-radius: 30px;
 margin-right: 10px;
+margin-top: 40px;
 }
 .text-bg a:hover {
     background-color: #200769;
