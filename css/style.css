@@ -834,6 +834,9 @@ nav.main-menu {
     height: 17px;
     font-size: 12px;
 }
+.menu-area-main a {
+    color: white;
+    }
 .menu-area-main li.active a {
     color: #FFDE16;
     }
@@ -1111,7 +1114,8 @@ background-repeat: no-repeat;
     z-index: 999;
     width: 100%;
     padding: 20px 0px 0px 0px;
-    background: #efefef;
+    background-color: #200769;
+    
 }
 .logo a {
     font-size: 40px;
